@@ -1,0 +1,5 @@
+Reducer is a function that manages changes to an object
+
+in our SquareScreen.js our Action had {colorToChange: 'red', amount: 15} USUALLY BY CONVECTION it will be {type: 'change_red', payload 15}
+
+

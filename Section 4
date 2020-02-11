@@ -1,0 +1,4 @@
+Buttons - Little Funtunality 
+TouchableOpacity - Lots of functunality
+
+onPress={() => props.navigation.navigate('List')} allows us to navigate to the screen in '' from app.js

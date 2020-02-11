@@ -1,0 +1,20 @@
+State
+
+Function called 'useState'
+it is a hook, it adds new functionality to a already used function. In our case it will watch the couter variable
+
+We never directly modify a state variable. React doesnt detect this change, Only use setter function
+
+We can name our State variable anything
+
+We can track any kind of data that changes over time. - int, sting, array, ect
+
+When a component is rerendered get rerendered too
+
+State Vaiables:
+
+Generally we create state vairables in the most parent component that needs to read or change a state value
+
+If a child needs to read a state value, the parent can pass it down as a prop
+
+If a child needs to change a state value, the parent can pass down a callback function to change a state value as a prop

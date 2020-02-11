@@ -1,0 +1,15 @@
+Props:
+
+-> Communicate information from a parent directly down to a child
+-> Easy to Setup
+-> To communicate data down multiple layers, we have to write a lot of code
+
+Context:
+
+-> Moves information from a parent to some nested child
+-> complicated to setup, lots of speacial terms
+-> Easy to commincate data from a parent to a super nested child
+
+When Creating a context we get something called a provider
+
+Provider is going to accept information and make that info availble to all child components

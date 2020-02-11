@@ -1,0 +1,8 @@
+This is Ethan Writting
+
+To start this cd into the directory and do a $npm start
+
+What should happen:
+
+A browser should open up on your computer with a qr code.
+Go to the Expo app on your phone and scan the qr code (Lan worked this time, 

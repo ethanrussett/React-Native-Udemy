@@ -1,0 +1,34 @@
+
+
+In ComponentsScreen.js
+
+When doing the imports: If you use the "{" this means you are just importing very spacific components of the library, if you dont use the "{" this will import the entire library
+
+Text > Show some text to the user
+View > genereal purpose element used for grouping other element or style
+Image > Show an Image
+Button > Shwo a button the user can press
+
+There is HTML code which is not valid java Script but the HTML code is bundles by the react native and converts it into plain JS
+
+styles > will automatically put all style components to text elements. The variable name has to be exact ex. fontSize not fontsize
+
+In App.js
+
+Navigator > is a tool form a library called React Navigator, is used to show different screens to user
+
+Rules of JSX
+
+We can assemble different JSX elements like normal HTML
+
+We configure differnet JSX elements using 'props' ex. The style element in text  is a prop
+
+We can refer to JS variables inside of a JSX block by using curly braces
+
+We can assign JSX elements to a variable, then show that variable inside of a JSX block
+
+Common Error
+
+You can do multi line code after a return either using a "(" on the same line of return or an <Veiw> on the same line as the retrun
+
+

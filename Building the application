@@ -1,0 +1,30 @@
+2 options for generating a an app
+
+Expo-cli (This is what we were using originally):
+Adds a ton of default config to use features common in app, like icons, video, better camera use ect
+
+react-native-cli:
+Default CLI to generate a project. Requires a lot of extra work to add in common features 
+
+
+To start a workspace type the command $ npx expo-cli init <name of project>
+
+YELP
+Client ID
+z5-4xNqAIbI_RM831D2OOQ
+
+API Key
+Us6c6ibvaPj0ZDzNc2ZP99ljYfsX9ZPzdPrzbG8wa6EP58k0GAQ58JXN1TdRk8BTILIOe3cDiWduL_p5cWmV7SvI8DSSaESfIz845vgls13OemXFoVDW0-mYdggzXnYx
+
+
+React Navigation Library:
+
+Provide us with a different object to help us navigate around an app
+
+Stack Navigator : Manages the header
+BottomTabNavigator : Tab to navigate through screens
+DrawerNavigator : Pops a menu from left hand side
+
+Installing Library:
+
+npm install <library name>

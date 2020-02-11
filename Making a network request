@@ -1,0 +1,11 @@
+Two options
+
+Fetch:
+	Buit in function to making network request
+	Error handling is a bit weird
+	Requies us to write a lot of wrapper code
+
+axios:
+	seperate library for making requests
+	easy to use, sensible defaults
+	increase our app size (very slightly)

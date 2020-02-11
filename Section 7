@@ -1,0 +1,26 @@
+Flex direction
+
+Dealing with spacing:
+
+Parent: ie View
+
+alignItems
+justifyContent
+flexDirection
+
+Child: ie Text
+
+flex
+alignSelf
+
+
+------------ Position Property -------------
+
+position by default is 'relative'
+
+
+----------   Overview ------------------
+
+Apply box object model rules > is postion 'absolute' > 
+YES > Apply some flex box rules, ignore all sibblings
+NO > Aplly all flex box rules, considering siblings > Place element inside parent > appl top, left, bottom, right

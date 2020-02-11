@@ -1,0 +1,6 @@
+Going to use a FlatList primative element 
+
+always going to pass in a 'prop' of 'data' Just like a dict in python
+
+There is a Key property for preformance. See Video 20 if you forget
+

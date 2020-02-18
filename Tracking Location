@@ -1,0 +1,23 @@
+ForeGround Location Trackng 
+
+> Gives usUser location wheneve our Apii is VIsable on screen
+> Easy to set up
+
+Background Location Tracking
+> Gives us the users location at all times, even if the app is not visable or device is locked
+> Uses more battery power
+> Much more complicated to set up
+
+Expo Location
+
+>Location service provided by the expo-location library (we need to install this)
+> Before Trackin the users location, we need to ask for permission
+> Two froms of location tracking (foreground and background)
+> we need to be extremely away of wehn were tacking location (it consumes alot of battery power)
+
+Location Permisions
+
+> Prompt use for permision to track their location
+> Permision request is async. If the user request, the call throws an error
+> Show erro if the user denies permission, otherwise start tracking
+> if the user return to TrackCreateScreen, we will rerun permission code but the OS will automaticall approve/reject us

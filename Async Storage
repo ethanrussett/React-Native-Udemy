@@ -1,0 +1,4 @@
+AsyncStorage is a library that can be used to store Json and keys on your mobile device
+
+Is depricated soon,
+recomended react-native-async-storage but not yet compatible with expo

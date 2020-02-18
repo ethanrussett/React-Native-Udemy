@@ -1,0 +1,3 @@
+We use ngrok to connect our phone application to our server
+
+in our case we used the command $ ngrok http 3000

@@ -1,0 +1,6 @@
+Its har to get access to the navigator declared by App.js
+
+
+We are going to create a component (nagigationRef.js) that has a clever funtion to get access to navigator
+
+navigate funtion for everyone else to use

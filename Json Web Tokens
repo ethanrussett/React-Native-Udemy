@@ -1,0 +1,10 @@
+Json Web Tokens
+
+A string that carries some identifying information
+
+Can be used to prove that you are who you say you are
+
+JWT is created using a speacial key that only our server knows
+
+Not possible to create a new KWT or change infor if an exisiting one without the Key
+
